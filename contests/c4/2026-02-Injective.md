@@ -1,7 +1,7 @@
 # Injective Core - Peggy/Peggo Security Findings
 
 ## Scope Note
-This report keeps only medium-severity findings with a concrete, code-backed break path in the current codebase. It excludes low/info issues, centralization/dependency notes, findings that depended on pre-broken invariants, unspecified state corruption, broad speculative assumptions, or issues already covered in [v12_injective.md](/Users/y4y/Desktop/Audit/c4/2026-02-injective/v12_injective.md).
+This report keeps only medium-severity findings with a concrete, code-backed break path in the current codebase. It excludes low/info issues, centralization/dependency notes, findings that depended on pre-broken invariants, unspecified state corruption, broad speculative assumptions, or issues already covered in v12.
 
 ## Severity Definitions
 - `Medium`: concrete runtime correctness, liveness, accounting, or enforcement failure in the bridge path that does not clearly self-heal.
