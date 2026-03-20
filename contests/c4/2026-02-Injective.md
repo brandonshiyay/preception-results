@@ -1,4 +1,3 @@
-Redacted until report is public
 # Injective Core - Peggy/Peggo Security Findings
 
 ## Scope Note
