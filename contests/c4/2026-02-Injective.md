@@ -1,3 +1,8 @@
+# Submitted Issues
+All M-01 - M-07
+
+---
+
 # Injective Core - Peggy/Peggo Security Findings
 
 ## Scope Note
