@@ -1,3 +1,9 @@
+# Submitted Issues
+
+MEDIUM-1 - MEDIUM-4, INVALID-1
+
+---
+
 # CurrentSui Audit Report
 
 ## Table of Contents
