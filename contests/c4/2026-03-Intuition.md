@@ -1,9 +1,13 @@
+# Issues Submitted
+
+Med-01, Low-02
+
+---
+
 # Intuition Protocol — Final Audit Report
 
 This report summarizes the security findings identified during the review of the Intuition Protocol's in-scope smart contracts. All findings have been verified against the codebase using the Codex MCP server.
 
-# Issues Submitted
-Med-01, Low-02
 ---
 
 ## Severity Assessment Criteria
