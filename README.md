@@ -5,5 +5,5 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 |Contest|Submitted Issues|Valid Issues|Placement|
 |---|---|---|---|
 |CurrentSui|5M|3M|-|
-|Intuitiomm|2M|1M|4th|
+|Intuition|2M|1M|4th|
 |Injective|7M|-|-|
