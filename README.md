@@ -1,4 +1,4 @@
-# preception-results
+# Preception Results
 Audit results for Preception, my AI tool.
 I tried to name it perception but made a typo, thought it was cool so left it this way XD
 
@@ -7,6 +7,10 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 |CurrentSui|5M|3M|-|Tested with Preception V1|
 |Intuition|2M|1M|4th|Tested with Preception V1|
 |Injective|7M|-|-|Tested with Preception V1|
+
+# Other Notable Results
+- 8 submitted issues in the Base Azul contest, 7 valid. 1 Critical, 3 Medium, 2 Low and 1 Insight.
+- 25 submitted issues in the K2 contest, and 1 QA report with 110 entries. The contest is still being judged.
 
 # Past Contest Analysis
 ## Table
