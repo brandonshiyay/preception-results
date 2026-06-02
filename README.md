@@ -8,7 +8,7 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 |Intuition|2M|1M|4th|Tested with Preception V1|
 |Injective|7M|-|-|Tested with Preception V1|
 |Base Azul|3H/5M|1C/3M/2L/1I|-|V3|
-|K2|-|-|-|V3|
+|K2|4H/21M|-|-|V3|
 
 # Other Notable Results
 - 8 submitted issues in the Base Azul contest, 7 valid. 1 Critical, 3 Medium, 2 Low and 1 Insight.
