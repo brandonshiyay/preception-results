@@ -7,6 +7,8 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 |CurrentSui|5M|3M|-|Tested with Preception V1|
 |Intuition|2M|1M|4th|Tested with Preception V1|
 |Injective|7M|-|-|Tested with Preception V1|
+|Base Azul|3H/5M|1C/3M/2L/1I|-|V3|
+|K2|-|-|-|V3|
 
 # Other Notable Results
 - 8 submitted issues in the Base Azul contest, 7 valid. 1 Critical, 3 Medium, 2 Low and 1 Insight.
@@ -30,7 +32,7 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 ### False Positives/Triaging
 Normally in a real audit/contest, issues will be triaged by me. For those past contest test runs, there are no human triaging. It could be possible that, after triaging, some issues will be removed/filtered out. Contest issues have weird validation/invalidation bars, and they are usually dependent on judges. So the coverage here should be used as a reference, not absolute truth.
 
-Also since only High/Medium issues are compared, so uncovered issues doesn't necessarily mean they are false positives, they could be downgraded to Low/Info in reality. 
+Also since only High/Medium issues are compared, so uncovered issues don't necessarily mean they are false positives, they could be downgraded to Low/Info in reality. 
 
 ### What happened to Preception V2?
-Did some contests with V2(Monetrix, XRP), but the execution was lacking. I liked my idea, but it wasn't working out as I anticipated.
+Did some contests with V2(Monetrix, XRP, etc), but the execution was lacking. I liked my idea, but it wasn't working out as I anticipated.
