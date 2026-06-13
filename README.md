@@ -29,6 +29,7 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 | PeaPods | 9000+? | Sherlock | Past | 6H/55M/80I | 7H/34M | 26/41 | No human triage, tested with Preception V3 |
 | Superfluid Locker System | 2000 | Sherlock | Past | 5H/6M/25I | 2H/6M | 6/8 | No human triage, tested with V3. Only did half of the entire process as the rest half will likely not cover new issues|
 | Velocimeter | 4000 | Sherlock | Past | 15M/52I | 9H/9M | 11/18 | No human triage, tested with V3. |
+| Panoptic | 6000 | C4 | Past | 2H/39M/3L/39I | 3H/19M | 14/22 | Panoptic is the only project ran by V1, V2 and V3. V1 had 3/22 coverage, V2 had 5/22 initial coverage, 8/22 after some hinting. V3 was tested twice, first time had 11/22, second time had 14/22(also with V3.5)|
 
 ## Note
 ### Duplication Rule
