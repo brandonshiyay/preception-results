@@ -30,6 +30,7 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 | Superfluid Locker System | Sherlock | 5H/6M/25I | 2H/6M | 6/8 | No human triage, tested with V3. Only did half of the entire process as the rest half will likely not cover new issues|
 | Velocimeter | Sherlock | 15M/52I | 9H/9M | 11/18 | No human triage, tested with V3. |
 | Panoptic | C4 | 2H/39M/3L/39I | 3H/19M | 14/22 | Panoptic is the only project ran by V1, V2 and V3. V1 had 3/22 coverage, V2 had 5/22 initial coverage, 8/22 after some hinting. V3 was tested twice, first time had 11/22, second time had 14/22(also with V3.5)|
+|Omni Chain| Cantina|7H/5M/3I| 6H/6M | 11/12 | This is targeted benchmarking, with V3.5|
 
 ## Note
 ### Duplication Rule
@@ -43,3 +44,6 @@ Also since only High/Medium issues are compared, so uncovered issues don't neces
 
 ### What happened to Preception V2?
 Did some contests with V2(Monetrix, XRP, etc), but the execution was lacking. I liked my idea, but it wasn't working out as I anticipated.
+
+### Targeted Benchmarking
+Preception V3 is quite fragmented. It behaves more like a distributed system. Targeted benchmarking means only a selected few workflows/operations will be run. The selection is based on if the official report contains those workflows. During benchmarking, agents have no knowledge of the official report. The filtering and targeting is done with a separate chat and no traces of known issue will be documented.
