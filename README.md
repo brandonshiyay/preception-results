@@ -1,7 +1,5 @@
 # Current Version
-Stable V3
-
-V3.5 under testing
+Stable V3.5
 
 # Preception Results
 Audit results for Preception, my AI tool.
