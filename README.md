@@ -12,6 +12,7 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 |Injective|7M|-|-|Tested with Preception V1|
 |Base Azul|3H/5M|1C/3M/2L/1I|-|V3 Prototype|
 |K2|4H/21M|-|-|V3|
+|ERC6909 Bond| 8H/7M| 3M/3L | 3rd | V3.5|
 
 # Other Notable Results
 - 8 submitted issues in the Base Azul contest, 7 valid. 1 Critical, 3 Medium, 2 Low and 1 Insight.
