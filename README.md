@@ -7,9 +7,9 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 
 |Contest|Submitted Issues|Valid Issues|Placement|Note|
 |---|---|---|---|---|
-|CurrentSui|5M|3M|-|Tested with Preception V1|
+|CurrentSui|5M|3M|13th|Tested with Preception V1|
 |Intuition|2M|1M|4th|Tested with Preception V1|
-|Injective|7M|-|-|Tested with Preception V1|
+|Injective|7M|1M|22nd|Tested with Preception V1|
 |Base Azul|3H/5M|1C/3M/2L/1I|12th|V3 Prototype|
 |K2|4H/21M|-|-|V3|
 |ERC6909 Bond| 8H/7M| 3M/3L | 3rd | V3.5|
