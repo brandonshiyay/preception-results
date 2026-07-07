@@ -1,5 +1,5 @@
 # Current Version
-Stable V3.5
+Stable V3.5 with auto triaging pipeline
 
 # Preception Results
 Audit results for Preception, my AI tool.
