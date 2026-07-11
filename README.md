@@ -13,6 +13,7 @@ I tried to name it perception but made a typo, thought it was cool so left it th
 |Base Azul|3H/5M|1C/3M/2L/1I|12th|V3 Prototype|
 |K2|4H/21M|-|-|V3|
 |ERC6909 Bond| 8H/7M| 3M/3L | 3rd | V3.5|
+|Polygon Heimdall V2|-|-|-|V3.5 + Auto Triaging|
 
 # Other Notable Results
 - 25 submitted issues in the K2 contest, and 1 QA report with 110 entries. The contest is still being judged.
